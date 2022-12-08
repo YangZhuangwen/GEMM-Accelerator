@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="sbt: com.google.code.gson:gson:2.7:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/AppData/Local/Coursier/cache/v1/https/mirrors.huaweicloud.com/repository/maven/com/google/code/gson/gson/2.7/gson-2.7.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/AppData/Local/Coursier/cache/v1/https/mirrors.huaweicloud.com/repository/maven/com/google/code/gson/gson/2.7/gson-2.7-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/AppData/Local/Coursier/cache/v1/https/mirrors.huaweicloud.com/repository/maven/com/google/code/gson/gson/2.7/gson-2.7-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

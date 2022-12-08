@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaCompilerConfiguration">
+    <profile name="sbt 1" modules="My_Systolic_Array,Systolic_Array,spinal_yolo_dev">
+      <plugins>
+        <plugin path="C:\Users\Yang\AppData\Local\Coursier\Cache\v1\https\mirrors.huaweicloud.com\repository\maven\com\github\spinalhdl\spinalhdl-idsl-plugin_2.11\1.7.2\spinalhdl-idsl-plugin_2.11-1.7.2.jar" />
+      </plugins>
+    </profile>
+    <profile name="sbt 2" modules="systolic_array" />
+  </component>
+</project>

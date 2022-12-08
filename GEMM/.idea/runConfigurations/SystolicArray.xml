@@ -1,0 +1,17 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="SystolicArray" type="Application" factoryName="Application">
+    <option name="ALTERNATIVE_JRE_PATH" value="E:\SpinalHDL\software\jdk1.8\jre" />
+    <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+    <option name="MAIN_CLASS_NAME" value="conv.compute.SystolicArray" />
+    <module name="My_Systolic_Array" />
+    <extension name="coverage">
+      <pattern>
+        <option name="PATTERN" value="conv.compute.*" />
+        <option name="ENABLED" value="true" />
+      </pattern>
+    </extension>
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
