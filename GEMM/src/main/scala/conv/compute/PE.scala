@@ -41,7 +41,7 @@ class PE(componentName: String, dataWidthIn: Int, dataWidthOut: Int) extends Bla
             .ACOUT(acout),  // output wire [29 : 0] ACOUT
             .BCOUT(bcout),  // output wire [17 : 0] BCOUT
             .P(pe_out),          // output wire [47 : 0] P
-            .SCLR(SCLR)  // input wire SCLRP
+            .SCLR(SCLR)  // input wire SCLR
 	        );
 
 endmodule
